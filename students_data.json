@@ -1,0 +1,74 @@
+[
+    {
+        "roll": "101",
+        "name": "Aarav sharma",
+        "age": "20",
+        "marks": "85"
+    },
+    {
+        "roll": "102",
+        "name": "priya singh",
+        "age": "19",
+        "marks": "92"
+    },
+    {
+        "roll": "103",
+        "name": "Rahul kumar",
+        "age": "21",
+        "marks": "78"
+    },
+    {
+        "roll": "104",
+        "name": "Ananya verma",
+        "age": "20",
+        "marks": "88"
+    },
+    {
+        "roll": "105",
+        "name": "Vikram patel",
+        "age": "22",
+        "marks": "74"
+    },
+    {
+        "roll": "106",
+        "name": "Neha gupta",
+        "age": "19",
+        "marks": "95"
+    },
+    {
+        "roll": "107",
+        "name": "Amit yadav ",
+        "age": "20",
+        "marks": "81"
+    },
+    {
+        "roll": "108",
+        "name": "Pooja mishra",
+        "age": "21",
+        "marks": "79"
+    },
+    {
+        "roll": "109",
+        "name": "Rohit Tiwari",
+        "age": "20",
+        "marks": "86"
+    },
+    {
+        "roll": "110",
+        "name": "Sneha Roy",
+        "age": "19",
+        "marks": "90"
+    },
+    {
+        "roll": "112",
+        "name": "khileshwar parsad ",
+        "age": "20",
+        "marks": "85"
+    },
+    {
+        "roll": "111",
+        "name": "Ruby kumari",
+        "age": "22",
+        "marks": "72"
+    }
+]
